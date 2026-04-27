@@ -1,2 +1,2 @@
 # ai-chatbot
-AI chatbot using Flaska nf OpenAI API
+AI chatbot using Flaska and OpenAI API
